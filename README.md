@@ -18,3 +18,10 @@ git commit -m "auth: implement secure user registration with BCrypt password has
 git commit -m "auth: implement user login endpoint with session tracking for roles"
 
 git commit -m "auth: add logout endpoint to clear active user sessions"
+git commit -m "events: implement GET endpoints to view events and associated categories"
+
+git commit -m "events: implement POST endpoint for event creation restricted to Organisers"
+
+git commit -m "events: implement DELETE endpoint for event removal with role validation"
+
+git commit -m "enrolments: implement participant event enrolment endpoint with session checks"
