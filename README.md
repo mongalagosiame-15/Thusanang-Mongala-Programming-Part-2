@@ -32,3 +32,8 @@ git commit -m "test: create xUnit test project RaceDayAPI.Tests and add project 
 git commit -m "test: configure Entity Framework InMemory database helper for unit tests"
 
 git commit -m "test: write unit tests verifying role-based rejection for unauthorized event creation"
+git commit -m "ci: configure GitHub Actions workflow yaml file for automated build and test pipeline"
+
+git commit -m "docs: update README with setup instructions, role descriptions, and CI screenshot"
+
+git commit -m "chore: final code cleanup, review, and repository preparation for ARC submission"
