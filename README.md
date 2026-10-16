@@ -14,7 +14,7 @@ git commit -m "config: configure session middleware in Program.cs for role-based
 
 git commit -m "auth: create AuthController skeleton and dependency injection setup"
 
-
+git commit -m "auth: implement secure user registration with BCrypt password hashing"
 
 git commit -m "auth: implement user login endpoint with session tracking for roles"
 
