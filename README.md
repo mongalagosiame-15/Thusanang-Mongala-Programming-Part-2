@@ -25,3 +25,10 @@ git commit -m "events: implement POST endpoint for event creation restricted to 
 git commit -m "events: implement DELETE endpoint for event removal with role validation"
 
 git commit -m "enrolments: implement participant event enrolment endpoint with session checks"
+git commit -m "docs: configure Swagger UI for live endpoint verification"
+
+git commit -m "test: create xUnit test project RaceDayAPI.Tests and add project reference"
+
+git commit -m "test: configure Entity Framework InMemory database helper for unit tests"
+
+git commit -m "test: write unit tests verifying role-based rejection for unauthorized event creation"
